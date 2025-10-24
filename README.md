@@ -2,7 +2,7 @@
 
 ******
 
-## Identifying salaries and Wage Levels of H1-B lottery winners
+### Identifying salaries and Wage Levels of H1-B lottery winners
 
 We link H-1B lottery winners from FY 2021 to FY 2024, obtained from Bloomberg, with Labor Condition Application (LCA) disclosure data from FY 2015 to FY 2024 using Department of Labor case IDs, accounting for the multi-year processing time of LCAs. Entries censored under sections (b)(3), (b)(6), or (b)(7)(C) of the Freedom of Information Act (FOIA) are excluded. Entries listing applicants under 18 years of age are presumed to be erroneous, as the H-1B program requires at least a bachelor’s degree, and are therefore excluded from the analysis.
 
@@ -28,7 +28,7 @@ In total, we identify around 373,000 H-1B petitions from lottery winners from FY
 
 ******
 
-## Projecting Net Present Value (NPV) of H1-B applicants’ expected lifetime earnings 
+### Projecting Net Present Value (NPV) of H1-B applicants’ expected lifetime earnings 
 
 To estimate the lifetime earnings of each year’s H-1B cohort, we begin with mean wages by age for all private-sector wage and salary workers holding at least a bachelor’s degree, as reported in the most recent five-year American Community Survey (ACS) from the U.S. Census Bureau. The wage universe is restricted to reflect the characteristics of H-1B applicants — skilled, college-educated workers employed in the private sector.
 
@@ -46,7 +46,7 @@ Our preferred proposal aims to maximize the total long-run earnings of H-1B awar
 
 ******
 
-## Simulating different H1-B selection schemes using synthetic samples
+### Simulating different H1-B selection schemes using synthetic samples
 
 The strict randomness of the current H1-B lottery for the regular lottery cap makes the lottery winners a representative sample of the universe of all workers who entered the lottery.
 
