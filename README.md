@@ -37,7 +37,7 @@ For each age between 22 and 65, we discount the ACS cross-sectional mean wages f
 For workers with age n, discount rate r, and ACS cross-sectional mean wage w, the equation for NPV multiplier is as follows:
 
 $$
-NPV multiplier_n = (w_n + {w_{n+1} \over (1+r)} + {w_{n+2} \over (1+r)^2} + ... + {w_{65} \over (1+r)^{65-n}}
+NPV multiplier_n = (w_n + {w_{n+1} \over (1+r)} + {w_{n+2} \over (1+r)^2} + ... + {w_{65} \over (1+r)^{65-n}}) / w_n
 $$
 
 We assign the NPV multiplier for 22-year-olds to all age groups younger than 22, and the multiplier for 59-year-olds to all ages above 59. Because H-1B visas require applicants to hold at least a bachelor’s degree, nearly all applicants are 22 or older. The few 20- and 21-year-olds in the sample are likely freshly graduated from college and are therefore treated the same as the 22-year-old recent graduates. Conversely, H-1B awardees are expected to work for two full visa terms (six years), so individuals between 60 and 65 can reasonably be assumed to remain employed for at least six additional years. Since most U.S. workers begin retiring around age 65, ACS cross-sectional mean wages beyond that age are not representative of actual late-career earnings. Given these limitations, the best practice is to apply the same multiplier used for 60- to 65-year-olds to those continuing to work past 65.
