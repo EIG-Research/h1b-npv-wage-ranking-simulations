@@ -1,4 +1,12 @@
-# Code and Data for EIG's Comment Letter on Revising Proposed H-1B Allocation Rules
+# Simulating the Outcomes of Different H-1B Visa Allocation Schemes
+
+This code underlies [EIG's comment letter to the Department of Homeland Security in response to its proposed wage-level-weighted-lottery rule](https://eig.org/eig-letter-dhs-should-revise-proposed-h-1b-weighted-lottery-to-prioritize-top-talent/) and the accompanying [Agglomerations post](https://agglomerations.substack.com/p/theres-a-better-way-to-allocate-h). Contact research@eig.org with any questions.
+
+******
+
+### Data Sources
+
+- New H-1B petitions, U.S. Citizenship & Immigration Services (USCIS) Form I-129 microdata FY2021-2024, obtained through a Freedom of Information Act request filed by Bloomberg L.P., available at [*Bloomberg Graphics, 2024 H-1B Immigration Data*](https://github.com/BloombergGraphics/2024-h1b-immigration-data).
 
 ******
 
