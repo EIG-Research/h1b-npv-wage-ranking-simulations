@@ -13,8 +13,8 @@ This code underlies [EIG's comment letter](https://eig.org/eig-letter-dhs-should
 - Occupational Employment Statistics (OES) by SOC and MSA, 2021-2024, U.S. Bureau of Labor Statistics (BLS), available [here](https://www.bls.gov/oes/).
 - American Community Survey (ACS) 5-year microdata, 2019-2023, U.S. Census Bureau, accessed through [IPUMS USA](https://usa.ipums.org/usa/).
 - Personal Consumption Expenditures: Chain-type Price Index, 2021-2024, U.S. Bureau of Economic Analysis, accessed via [FRED](https://fred.stlouisfed.org/series/PCEPI).
-- Addresses geocoded through Cambon J, Hernangómez D, Belanger C, Possenriede D (2021), *tidygeocoder: An R package for geocoding*, Journal of Open Source Software, 6(65), 3544, [https://doi.org/10.21105/joss.03544](https://doi.org/10.21105/joss.03544).
-- To define IT outsourcing companies, we rely on the Institute for Progress’s method of identifying large outsourcers. See Jeremy Neufeld, Talent Recruitment Roulette: Replacing the H-1B Lottery (Institute for Progress Jan. 17, 2025). [https://ifp.org/h1b/#introduction](https://ifp.org/h1b/#introduction).
+- Addresses geocoded through Cambon J, Hernangómez D, Belanger C, Possenriede D (2021), *tidygeocoder: An R package for geocoding*. Journal of Open Source Software, 6(65), 3544. [https://doi.org/10.21105/joss.03544](https://doi.org/10.21105/joss.03544)
+- To define IT outsourcing companies, we rely on the Institute for Progress’s method of identifying large outsourcers. See Jeremy Neufeld, Talent Recruitment Roulette: Replacing the H-1B Lottery (Institute for Progress Jan. 17, 2025). [https://ifp.org/h1b/#introduction](https://ifp.org/h1b/#introduction)
 
 ******
 
